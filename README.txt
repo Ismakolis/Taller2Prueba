@@ -11,7 +11,7 @@ Este proyecto consiste en un formulario construido con Angular que envía los da
 ----------Instalación del proyecto
 
 1. Clona el repositorio:
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/Ismakolis/Taller2Prueba.git
 
 2. Ingresa a la carpeta del proyecto:
    cd nombre-del-proyecto
@@ -37,7 +37,7 @@ No se incluye un respaldo por el momento
 
 ----------Repositorio
 
-GitHub: https://github.com/TU_USUARIO/TU_REPOSITORIO
+GitHub: https://github.com/Ismakolis/Taller2Prueba.git
 
 ----------Autor
 
